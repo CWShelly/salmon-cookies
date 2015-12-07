@@ -1,0 +1,50 @@
+body {
+  background-color: grey;
+}
+h2  {
+  color: white;
+  font-size: 14;
+  font-family: 'Droid Sans', sans-serif;
+}
+
+h3  {
+  color: white;
+  font-size: 14;
+  font-family: 'Droid Sans', sans-serif;
+}
+
+li  {
+  color: white;
+  font-size: 14;
+  font-family: 'Droid Sans', sans-serif;
+}
+
+
+h4 {
+  color: white;
+  font-size: 14;
+  font-family: 'Droid Sans', sans-serif;
+}
+
+
+
+.one {
+  background-color:#D4A190;
+  padding: 20px;
+  width:275px;
+  border-radius:10px;
+}
+
+.two {
+  background-color:#859C7E;
+  padding: 20px;
+  width:275px;
+  border-radius:10px;
+}
+
+.three {
+  background-color:white;
+  padding: 20px;
+  width:275px;
+  border-radius:10px;
+}
